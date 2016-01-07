@@ -1,0 +1,28 @@
+name: RAlentir
+favicon: null
+layout_spectrum: 0.703262286959216
+typography_spectrum: 0.5908826275262982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.37094775680452585
+  lightness: 0.3726147043053061
+  saturation: 0.7030932423658669
+  rhythmicContrast: 0.4705501382704824
+purpose: []
