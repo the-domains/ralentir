@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ralentir - Le temps d'un voyage autour du monde]]></title>
         <description><![CDATA[Ralentir - Le temps d'un voyage autour du monde]]></description>
-        <link>https://thegrid.ai/ralentir/</link>
+        <link>http://ralentir.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 22:02:50 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ralentir/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 06:57:45 GMT</lastBuildDate>
+        <atom:link href="http://ralentir.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Prendre le temps d'un tour du monde...]]></title>
-            <description><![CDATA[<article><h1>Prendre le temps d'un tour du monde...</h1><p>Hello World,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5690c9725036d26ba19149b47f7c317b5da4e28a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ralentir/preums/index.html</link>
+            <title><![CDATA[Ralentir - Le temps d'un voyage autour du monde]]></title>
+            <description><![CDATA[<article><h1>Ralentir - Le temps d'un voyage autour du monde</h1><p>"Si vous pensez que l'aventure est dangereuse, je vous propose d'essayer la routine... elle est mortelle."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa22de64e3eb27be9ab5681641be56584d8ae3e7.jpg"></article>]]></description>
+            <link>http://ralentir.ch/preums/index.html</link>
             <guid isPermaLink="false">cf9aa967-4dfe-495d-afa3-293e26d9dbf6</guid>
-            <pubDate>Thu, 07 Jan 2016 22:02:49 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 06:57:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
