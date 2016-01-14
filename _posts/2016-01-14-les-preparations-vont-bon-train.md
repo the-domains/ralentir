@@ -6,23 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T10:59:07.473Z'
-dateModified: '2016-01-14T10:59:06.138Z'
+datePublished: '2016-01-14T17:36:42.140Z'
+dateModified: '2016-01-14T17:36:33.155Z'
 title: 'Les préparations vont bon train!'
 author: []
+sourcePath: _posts/2016-01-14-les-preparations-vont-bon-train.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-les-preparations-vont-bon-train.md
-published: true
 url: les-preparations-vont-bon-train/index.html
 _type: Article
 
 ---
 La date du départ approche et avec cela les préparations. Ces dernières semaines, nous avons notamment commencer à "pimper" notre camping car : tissus et déco, panneaux solaires additionnels et diverses améliorations.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1b02f4c-43be-4a30-868b-ca04c95fdf23.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd739d2f-fc27-44be-9e08-d613d849546e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19642f9b-d1b7-41c5-a45b-d6bb1c65507e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e23b32647e451c45e11fb6e2b364b61c5cd9719.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa0776c35d516e9d066e11608338be51841264d7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2857458a51b13fc40056d6a9586c7acae549c469.jpg)
+
+Prochaines photos, les tissus installés dans le camping car! ;)
