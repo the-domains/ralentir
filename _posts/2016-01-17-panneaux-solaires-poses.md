@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:44:14.040Z'
-dateModified: '2016-01-17T13:44:10.988Z'
+datePublished: '2016-01-17T13:49:41.088Z'
+dateModified: '2016-01-17T13:49:35.478Z'
 title: Panneaux solaires posés
 author: []
 sourcePath: _posts/2016-01-17-panneaux-solaires-poses.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: panneaux-solaires-poses/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 # Panneaux solaires posés
