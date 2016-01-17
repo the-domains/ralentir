@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T12:09:40.795Z'
-dateModified: '2016-01-15T12:09:25.779Z'
+datePublished: '2016-01-17T13:49:19.327Z'
+dateModified: '2016-01-17T13:49:07.315Z'
 title: Les préparatifs
 author: []
+sourcePath: _posts/2016-01-15-les-preparatifs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-les-preparatifs.md
-published: true
 url: les-preparatifs/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Les préparatifs
