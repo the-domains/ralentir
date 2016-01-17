@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:49:41.216Z'
+datePublished: '2016-01-17T13:49:41.187Z'
 dateModified: '2016-01-17T13:49:41.088Z'
 title: Panneaux solaires posés
 author: []
