@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:49:19.480Z'
-dateModified: '2016-01-17T13:49:19.340Z'
+datePublished: '2016-01-17T13:49:19.584Z'
+dateModified: '2016-01-17T13:49:19.480Z'
 title: Les préparatifs
 author: []
 sourcePath: _posts/2016-01-15-les-preparatifs.md
