@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Panneaux solaires posés sur notre camping car
-datePublished: '2016-01-20T10:35:37.447Z'
+datePublished: '2016-01-20T10:35:37.513Z'
 dateModified: '2016-01-20T10:27:08.245Z'
 title: Panneaux solaires posés
 author: []
