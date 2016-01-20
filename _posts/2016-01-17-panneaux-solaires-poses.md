@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-17T13:49:41.623Z'
-dateModified: '2016-01-17T13:49:41.344Z'
+description: Panneaux solaires posés sur notre camping car
+datePublished: '2016-01-20T10:35:37.437Z'
+dateModified: '2016-01-20T10:27:08.245Z'
 title: Panneaux solaires posés
 author: []
 sourcePath: _posts/2016-01-17-panneaux-solaires-poses.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: panneaux-solaires-poses/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Panneaux solaires posés
