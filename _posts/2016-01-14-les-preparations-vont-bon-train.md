@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T17:46:32.138Z'
-dateModified: '2016-01-17T14:35:56.933Z'
+datePublished: '2016-01-20T10:35:52.949Z'
+dateModified: '2016-01-20T10:26:05.938Z'
 title: 'Les préparations vont bon train!'
 author: []
 sourcePath: _posts/2016-01-14-les-preparations-vont-bon-train.md
