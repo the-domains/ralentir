@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-20T10:35:52.974Z'
-dateModified: '2016-01-20T10:26:05.938Z'
+description: 'Préparations!'
+datePublished: '2016-01-28T23:45:05.142Z'
+dateModified: '2016-01-20T12:11:35.817Z'
 title: 'Les préparations vont bon train!'
 author: []
 sourcePath: _posts/2016-01-14-les-preparations-vont-bon-train.md
