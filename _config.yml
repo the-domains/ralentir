@@ -1,6 +1,6 @@
 name: RAlentir
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.06333
 title: "Ralentir - Le temps d'un voyage autour du monde"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#39201c'
     - '#2da7bc'
     - '#51e2fa'
-  brandStrength: 0.37094775680452585
-  lightness: 0.3726147043053061
+  brandStrength: 0.3125
+  lightness: 0.5625
   saturation: 0.7030932423658669
-  rhythmicContrast: 0.4705501382704824
+  rhythmicContrast: 0.5
 purpose: []
