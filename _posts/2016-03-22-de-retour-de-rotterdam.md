@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T22:59:20.582Z'
-dateModified: '2016-03-22T22:58:58.037Z'
+datePublished: '2016-03-22T23:03:41.936Z'
+dateModified: '2016-03-22T22:59:29.430Z'
+title: De retour de Rotterdam
+author: []
+sourcePath: _posts/2016-03-22-de-retour-de-rotterdam.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: De retour de Rotterdam
-author: []
-sourcePath: _posts/2016-03-22-de-retour-de-rotterdam.md
-published: true
 url: de-retour-de-rotterdam/index.html
 _type: Article
 
