@@ -4,7 +4,7 @@
         <description><![CDATA[Ralentir - Le temps d'un voyage autour du monde]]></description>
         <link>http://ralentir.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 23:54:04 GMT</lastBuildDate>
         <atom:link href="http://ralentir.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[De retour de Rotterdam]]></title>
@@ -12,13 +12,6 @@
             <link>http://ralentir.ch/de-retour-de-rotterdam/index.html</link>
             <guid isPermaLink="false">c231b3cf-dbe3-409f-b9fa-b3dec41d202e</guid>
             <pubDate>Tue, 22 Mar 2016 23:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>sdélkafkàdséflkàéds</p>]]></description>
-            <link>http://ralentir.ch/88de987a-802f-4f6e-b16d-4c98669c2cea/index.html</link>
-            <guid isPermaLink="false">88de987a-802f-4f6e-b16d-4c98669c2cea</guid>
-            <pubDate>Tue, 22 Mar 2016 21:57:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
